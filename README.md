@@ -1,7 +1,7 @@
 ### Hello, hello! Welcome. 👋
 
 - ⚡ Random tidbits: I'm South African, I'm a twin, I own over 30 jigsaw puzzles
-- :books: I reading; some faves: Beartown, Opposite of Loneliness, Difficult Women, Eleanor Oliphant is Completely Fine, Poetics of Hip Hop, Jane Eyre
+- :books: I love reading: Beartown, Opposite of Loneliness, Difficult Women, Eleanor Oliphant is Completely Fine, Poetics of Hip Hop, Jane Eyre
 - 🔭 I’m currently working on completing draggable sections in my task list app
 - 👯 I’m looking to collaborate on ABSOLUTELY ANYTHING, I love a good challenge
 - 📫 You can reach me at mia.joubert@gmail.com or connect on https://www.linkedin.com/in/miajoubert/ 
